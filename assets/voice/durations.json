@@ -1,0 +1,70 @@
+{
+ "H01": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|光合作用可以写成一个式子：二氧化碳加水，在光照下，变成有机物和氧气。|1.0|长大/(zhang3)(da4)",
+  "dur": 7.275
+ },
+ "H02": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|可是在一片叶子里面，这件事到底是怎么发生的？|1.0|长大/(zhang3)(da4)",
+  "dur": 3.644
+ },
+ "L01": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|先看原料。水从根部吸上来，沿着叶脉，送到叶片的每个角落。|1.0|长大/(zhang3)(da4)",
+  "dur": 6.31
+ },
+ "L02": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|二氧化碳从叶片背面的气孔进来。气孔由两个保卫细胞围成，可以张开，也可以关上。|1.0|长大/(zhang3)(da4)",
+  "dur": 7.346
+ },
+ "C01": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|进到叶肉细胞里，能看到很多绿色的颗粒，这就是叶绿体，光合作用在这里进行。|1.0|长大/(zhang3)(da4)",
+  "dur": 6.677
+ },
+ "C02": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|叶绿体里一叠一叠的结构叫基粒，由一个个扁平的类囊体堆起来。|1.0|长大/(zhang3)(da4)",
+  "dur": 5.697
+ },
+ "C03": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|类囊体膜上的叶绿素，主要吸收红光和蓝紫光。绿光吸收得最少，被反射出来，所以叶子是绿色的。|1.0|长大/(zhang3)(da4)",
+  "dur": 8.163
+ },
+ "P01": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|叶绿素吸收的光能，先用来做一件事：把水分解。|1.0|长大/(zhang3)(da4)",
+  "dur": 4.053
+ },
+ "P02": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|水被拆成氧和氢，氧气从气孔释放出去，就是我们呼吸的氧气。|1.0|长大/(zhang3)(da4)",
+  "dur": 5.632
+ },
+ "P03": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|所以，光合作用放出的氧气来自水，科学家用同位素标记证明过这一点。|1.0|长大/(zhang3)(da4)",
+  "dur": 6.069
+ },
+ "P04": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|光能同时被存进 ATP 这样的能量分子里，和氢一起，送到叶绿体的基质中。|1.0|长大/(zhang3)(da4)",
+  "dur": 6.938
+ },
+ "K01": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|在基质里，二氧化碳被一个个固定下来，再利用这些能量和氢，转化成糖。|1.0|长大/(zhang3)(da4)",
+  "dur": 6.169
+ },
+ "K02": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|这一步不直接需要光，反应一圈一圈地循环进行，叫卡尔文循环。|1.0|长大/(zhang3)(da4)",
+  "dur": 5.933
+ },
+ "K03": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|糖为植物提供能量，也能连成长链，变成淀粉和纤维素，让植物长大。|1.0|长大/(zhang3)(da4)",
+  "dur": 6.685
+ },
+ "Z01": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|再回头看那个式子：光提供能量，把水拆开，放出氧气；二氧化碳被合成了糖。|1.0|长大/(zhang3)(da4)",
+  "dur": 7.512
+ },
+ "Z02": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|地球上的每一片叶子，每天都在这样做。|1.0|长大/(zhang3)(da4)",
+  "dur": 2.998
+ },
+ "Q01": {
+  "sig": "Chinese (Mandarin)_Gentle_Senior|那么到了晚上，没有了光，植物还会放出氧气吗？|1.0|长大/(zhang3)(da4)",
+  "dur": 3.828
+ }
+}
